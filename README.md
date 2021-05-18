@@ -8,7 +8,7 @@
 
   <p align="center">
     Community driven Classless MMO Framework. Proudly 
-  founded by Lushen and based on WaloriaCore(TC) :smile:
+  founded by Lushen and based on AstoriaCore(TC) Updated To WarZone Core :smile:
     <br />
     <a href="https://github.com/AstoriaCore/AstoriaCore/tree/master/tutorials"><strong>Explore the docs (AstoriaCore) »</strong></a>
     <br />
@@ -21,9 +21,10 @@
 
 ## About AstoriaCore
 
-AstoriaCore is a customized Version of TrinityCore and the private source of WaloriaCore by Fractional aka Fred. With this project 
+AstoriaCore is a customized Version of TrinityCore and the private source of AstoriaCore by Lushen aka WORLDOFPRIVATE Administrator. With this project 
 we want to bring **Classless** to a new level. With many extensions, *AstoriaCore* is different from all other TrinityCore branches.
 *AstoriaCore* was the basis of the Classless Project "Project Astoria" which was managed by Lushen, Acidy and OMGhixD.
+But Updated to the latest revision by the Warzone Team Aka Revolve,Tester, Along With The LUA Exentions!, Thank you for the Generous Donation!
 
 ## Exentions
 
@@ -54,12 +55,12 @@ You want to create your own Classless Server? No problem, just get AstoriaCore! 
 
 ### Requirements:
 
-* [Visual Studio 2015 Community](https://visualstudio.microsoft.com/de/vs/older-downloads/)
-* [CMake 3.18.6](https://cmake.org/download/)
+* [Visual Studio 2019 Community](https://visualstudio.microsoft.com/vs/)
+* [CMAKE-3.20.2](https://cmake.org/download/)
 * [GIT Extension](https://git-scm.com/downloads)
 * [MySQL Server 5.7 Community Edition](https://dev.mysql.com/downloads/mysql/5.7.html)
-* [OpenSSL 1.0.2u](https://workupload.com/file/jAYjqcPMP3g)
-* [Boost 1.60.0 (MSVC14.0)](https://boost.teeks99.com/bin/1.60.0/) 
+* [OpenSSL 1.1.1h 22 Sep 2020](https://www.openssl.org/source/)
+* [Boost 1.72.0 (MSVC14.0)](https://boostorg.jfrog.io/artifactory/main/release/1.72.0/source/boost_1_72_0.7z) 
 
 For OpenSSL install the Version you want to use depending on your System Core (x64 or x86)
 
